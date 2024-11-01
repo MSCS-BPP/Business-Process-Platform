@@ -16,4 +16,4 @@ You must have an appropriate subscription plan to enable the Business Process Pl
 - Adjustable Flow push template (users do not need to design Power Automate Flow, they only need to adjust the content to achieve partial customization simply).
 
 ## Installation
-Access the "Releases" page and download the Power Platform solution zip file.
+Access the [Releases](https://github.com/MSCS-BPP/Business-Process-Platform/releases/tag/v0.0.1-alpha) page and download the Power Platform solution zip file.
