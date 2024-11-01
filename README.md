@@ -14,3 +14,6 @@ You must have an appropriate subscription plan to enable the Business Process Pl
 - The system data maintenance center allows users with administrator rights to perform unified maintenance. 
 - Users with administrator rights can maintain the application’s system data. 
 - Adjustable Flow push template (users do not need to design Power Automate Flow, they only need to adjust the content to achieve partial customization simply).
+
+## Installation
+Access the "Releases" page and download the Power Platform solution zip file.
