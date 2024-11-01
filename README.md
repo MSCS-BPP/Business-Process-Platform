@@ -3,9 +3,9 @@
 Business Process Platform (BPP) is based on Microsoft Power Platform Solutions. Allow users can access via desktop, pads, and mobile devices.
 Establish a unified process application center to allow users to use the platform more friendly and complete their desired work.
 
-## Requirment
+## Requirement
 You must have an appropriate subscription plan to enable the Business Process Platform.
-- A license for each user, also known as a per user license (or Power Apps Premium as referred to on the Microsoft 365 admin center), should be assigned to individual users who need access BPP apps.
+- A license for each user, also known as a per-user license (or Power Apps Premium as referred to on the Microsoft 365 admin center), should be assigned to individual users who need access BPP apps.
 - A license for the service account, you need one M365 Business Basic license
 
 ## Scope
